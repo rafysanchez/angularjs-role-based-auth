@@ -2,6 +2,8 @@
 
 This is a working example for the following post: http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/
 
+https://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/
+
 ## Instructions to get it running
 
 #### Make sure lineman and bower are installed
